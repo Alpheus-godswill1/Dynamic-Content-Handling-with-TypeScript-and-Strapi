@@ -48,5 +48,3 @@ In the conclusion, we summarize the main concepts covered in the article and hig
 
 Throughout the article, we maintain a conversational tone to engage readers and actively encourage interaction by inviting them to experiment with the discussed concepts and share their experiences or questions in the comments section.
 
-Feel free to explore the code samples and examples provided in this repository to enhance your understanding of dynamic content handling with TypeScript and Strapi.
-```
